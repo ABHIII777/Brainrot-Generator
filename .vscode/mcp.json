@@ -1,0 +1,7 @@
+{
+	"servers": {
+		"instagram_dms": {
+			"url": "http://localhost:8000/sse",
+		}
+	}
+}
